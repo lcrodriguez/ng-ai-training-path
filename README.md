@@ -21,6 +21,10 @@ Read the PROMPTING GUIDE first to understand what can be achieved and GPT best p
 - https://www.promptingguide.ai/es
 - https://platform.openai.com/docs/guides/gpt-best-practices
 
+You should be able to use the Open API service following the tutorials:
+
+- https://platform.openai.com/docs/quickstart
+
 ## Exercise 01: Document Understanding
 
 Using your previous knowdledge we need to extract all the taxes from the sample document in a digital format to be sent to a REST API service.
