@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "start": "node index.js"
+    "test": "node index.js"
   },
   "dependencies": {
     "faiss-node": "^0.3.0",
