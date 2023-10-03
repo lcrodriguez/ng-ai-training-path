@@ -23,7 +23,7 @@ Read the PROMPTING GUIDE first to understand what can be achieved and GPT best p
 
 You should be able to use the Open API service following the tutorials:
 
-- https://platform.openai.com/docs/quickstart
+- [https://platform.openai.com/docs/quickstart](https://platform.openai.com/docs/guides/gpt)
 
 ## Exercise 01: Document Understanding
 
