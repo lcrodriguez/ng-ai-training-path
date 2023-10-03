@@ -1,0 +1,14 @@
+{
+  "name": "node-starter",
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "faiss-node": "^0.3.0",
+    "langchain": "^0.0.158",
+    "openai": "^4.11.1",
+    "pickleparser": "^0.1.0"
+  }
+}
