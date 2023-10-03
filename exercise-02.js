@@ -1,6 +1,6 @@
 /*
  * You can run this program from the terminal below with:
- *    node langchain
+ *    node exercise-02
  */
 
 import { OpenAI } from 'langchain/llms/openai';
