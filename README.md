@@ -37,3 +37,7 @@ TIP: Use a vector store to search for the data based on the question.
 
 - https://js.langchain.com/docs/get_started/quickstart
 - https://js.langchain.com/docs/modules/data_connection/vectorstores/integrations/faiss
+
+## Exercise 03: Fine tune a LLAMA V2 model with your propietary documents
+
+TBD
