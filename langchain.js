@@ -3,7 +3,7 @@
  *    node langchain
  */
 
-// GOAL: Create your first chatbot application using langchain that will be able to respond on the following 3 medical pdfs.
+// GOAL: Create your first chatbot application using langchain that will be able to respond on the gitlab dev.pdf content file in the doc folder
 // TIP: Use a vector store to search for the data based on the question.
 
 // https://js.langchain.com/docs/get_started/quickstart
