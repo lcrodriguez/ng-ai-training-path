@@ -19,7 +19,7 @@ const response = await openai.chat.completions.create({
       content: context,
     },
     {
-      role: 'assistant',
+      role: 'user',
       content: question,
     },
   ],
