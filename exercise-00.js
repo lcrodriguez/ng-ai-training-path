@@ -11,6 +11,9 @@ const openai = new OpenAI();
 const context = `Tu eres un experto en cruceros.`;
 const question = `Hola! Que crucero me recomiendas en Europa?`;
 
+/*
+ * READ DOC: https://platform.openai.com/docs/quickstart/step-3-sending-your-first-api-request
+ */ 
 const response = await openai.chat.completions.create({
   model: 'gpt-3.5-turbo-16k',
   messages: [
