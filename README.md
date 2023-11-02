@@ -37,11 +37,24 @@ Please use prompting to extract the information as generic as possible.
 
 Create your first chatbot application using langchain that will be able to respond on the gitlab 2023 pdf content file in the doc folder
 
-TIP: Use a vector store to search for the data based on the question.
+TIP: IMPLEMENT A SIMPLE RAG SOLUTION WITH NODE:
+https://js.langchain.com/docs/modules/chains/popular/chat_vector_db
+
+TIP: LOAD FROM PDF:
+https://js.langchain.com/docs/modules/data_connection/document_loaders/how_to/pdf
+
+QUICKSTART:
 
 - https://js.langchain.com/docs/get_started/quickstart
-- https://js.langchain.com/docs/modules/data_connection/vectorstores/integrations/faiss
+
+CHALLENGE:
+
+- Try to use another vectorstore like FAISS from Meta
+
+https://js.langchain.com/docs/modules/data_connection/vectorstores/integrations/faiss
 
 ## Exercise 03: Fine tune a LLAMA V2 model with your propietary documents
 
 TBD
+
+https://towardsdatascience.com/fine-tune-your-own-llama-2-model-in-a-colab-notebook-df9823a04a32

@@ -7,7 +7,10 @@ import { OpenAI } from 'langchain/llms/openai';
 
 const llm = new OpenAI();
 
-// HELPERS:
+// IMPLEMENT A SIMPLE RAG SOLUTION WITH NODE:
+// https://js.langchain.com/docs/modules/chains/popular/chat_vector_db 
+
+// LOAD FROM PDF:
 // https://js.langchain.com/docs/modules/data_connection/document_loaders/how_to/pdf
-// https://js.langchain.com/docs/modules/chains/popular/vector_db_qa
+
 console.info('FINISHED!!!');
