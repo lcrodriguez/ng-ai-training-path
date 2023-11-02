@@ -6,9 +6,11 @@
     "test": "node index.js"
   },
   "dependencies": {
-    "faiss-node": "^0.3.0",
-    "langchain": "^0.0.158",
-    "openai": "^4.11.1",
-    "pickleparser": "^0.1.0"
+    "faiss-node": "^0.5.1",
+    "hnswlib-node": "^1.4.2",
+    "langchain": "^0.0.178",
+    "openai": "^4.14.2",
+    "pdf-parse": "^1.1.1",
+    "pickleparser": "^0.2.1"
   }
 }
