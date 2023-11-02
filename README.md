@@ -53,8 +53,12 @@ CHALLENGE:
 
 https://js.langchain.com/docs/modules/data_connection/vectorstores/integrations/faiss
 
-## Exercise 03: Fine tune a LLAMA V2 model with your propietary documents
+## Exercise 03: Fine tune a LLAMA V2 model or Open AI with your propietary documents
 
 TBD
 
 https://towardsdatascience.com/fine-tune-your-own-llama-2-model-in-a-colab-notebook-df9823a04a32
+
+TBD
+
+https://platform.openai.com/docs/guides/fine-tuning
