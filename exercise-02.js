@@ -1,6 +1,6 @@
 /*
  * You can run this program from the terminal below with:
- *    node exercise-01
+ *    node exercise-02
  *
  */
 
