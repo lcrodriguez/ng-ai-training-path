@@ -38,7 +38,7 @@ Please use prompting to extract the information as generic as possible.
 Create your first chatbot application using langchain that will be able to respond on the gitlab 2023 pdf content file in the doc folder
 
 TIP: IMPLEMENT A SIMPLE RAG SOLUTION WITH NODE:
-https://js.langchain.com/docs/modules/chains/popular/chat_vector_db
+https://js.langchain.com/docs/modules/chains/popular/vector_db_qa
 
 TIP: LOAD FROM PDF:
 https://js.langchain.com/docs/modules/data_connection/document_loaders/how_to/pdf
