@@ -12,13 +12,13 @@ You will need to export the OpenAI key provided into the terminal in StackBlitz:
 export OPENAI_API_KEY='yourkeygoeshere'
 ```
 
-## Exercise 00: Learn a very simple linear regression model creation
+## Exercise 00: Learn a very simple linear regression model creation (20 minutes)
 
 Review the following colab node:
 
 https://colab.research.google.com/drive/1arYMYH35NC1yDw6G-TowgJpVDILL6lt7?usp=sharing
 
-## Exercise 01: Prompting Training
+## Exercise 01: Prompting Training (20 minutes)
 
 Talk and discuss with your group and bring one use case you think can be solved with Open AI (LLM) and do a quick test inspection.
 
@@ -31,7 +31,7 @@ You should be able to use the Open API service following the tutorials:
 
 - [https://platform.openai.com/docs/quickstart](https://platform.openai.com/docs/guides/gpt)
 
-## Exercise 02: Document Understanding
+## Exercise 02: Document Understanding (15 minutes)
 
 Using your previous knowdledge we need to extract all the taxes from the sample document in a digital format to be sent to a REST API service.
 
@@ -39,7 +39,7 @@ We will need also the invoice total and the taxes total to be included and for t
 
 Please use prompting to extract the information as generic as possible.
 
-## Exercise 03: Bot Building
+## Exercise 03: Bot Building (40 minutes)
 
 Create your first chatbot application using langchain that will be able to respond on the gitlab 2023 pdf content file in the doc folder
 
